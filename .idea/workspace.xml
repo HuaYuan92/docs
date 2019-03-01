@@ -35,8 +35,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1565" />
-    <option name="y" value="173" />
+    <option name="x" value="-9" />
+    <option name="y" value="84" />
     <option name="width" value="1440" />
     <option name="height" value="811" />
   </component>
@@ -48,6 +48,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,7 +71,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -110,6 +110,7 @@
       <workItem from="1551316362730" duration="1000" />
       <workItem from="1551345955133" duration="71000" />
       <workItem from="1551410684229" duration="80000" />
+      <workItem from="1551424250928" duration="102000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1551257750873</created>
@@ -146,11 +147,18 @@
       <option name="project" value="LOCAL" />
       <updated>1551410721301</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="0.02">
+      <created>1551424345875</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1551424345875</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="760000" />
+    <option name="totallyTimeSpent" value="862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1565" y="173" width="1440" height="811" extended-state="0" />
@@ -182,7 +190,8 @@
     <MESSAGE value="optimised" />
     <MESSAGE value="增加buglist" />
     <MESSAGE value="new bug" />
-    <option name="LAST_COMMIT_MESSAGE" value="new bug" />
+    <MESSAGE value="0.02" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.02" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/js/2.8a177a30.js">
