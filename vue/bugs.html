@@ -7,7 +7,7 @@
     <meta name="description" content="技术积累">
     <link rel="icon" href="/docs/favicon.ico">
     
-    <link rel="preload" href="/docs/assets/css/0.styles.96ce6ce4.css" as="style"><link rel="preload" href="/docs/assets/js/app.00219b97.js" as="script"><link rel="preload" href="/docs/assets/js/4.a29d8031.js" as="script"><link rel="prefetch" href="/docs/assets/js/2.8a177a30.js"><link rel="prefetch" href="/docs/assets/js/3.a473dc58.js"><link rel="prefetch" href="/docs/assets/js/5.3476ca81.js"><link rel="prefetch" href="/docs/assets/js/6.72403bb7.js"><link rel="prefetch" href="/docs/assets/js/7.74d6183a.js">
+    <link rel="preload" href="/docs/assets/css/0.styles.96ce6ce4.css" as="style"><link rel="preload" href="/docs/assets/js/app.f3dc8cda.js" as="script"><link rel="preload" href="/docs/assets/js/4.a29d8031.js" as="script"><link rel="prefetch" href="/docs/assets/js/2.8a177a30.js"><link rel="prefetch" href="/docs/assets/js/3.a473dc58.js"><link rel="prefetch" href="/docs/assets/js/5.3476ca81.js"><link rel="prefetch" href="/docs/assets/js/6.809c72f2.js"><link rel="prefetch" href="/docs/assets/js/7.74d6183a.js">
     <link rel="stylesheet" href="/docs/assets/css/0.styles.96ce6ce4.css">
   </head>
   <body>
@@ -25,11 +25,11 @@
 </code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br><span class="line-number">5</span><br><span class="line-number">6</span><br></div></div><h3 id="三-记录下遇到的一个问题"><a href="#三-记录下遇到的一个问题" aria-hidden="true" class="header-anchor">#</a> 三 记录下遇到的一个问题</h3> <p>host:8088/uniccat曾经在其他项目中用过，这次在另一个项目中用到相同端口，相同Url时出现大批报错；
 具体变现是：如果由8088/tools跳到8088/uniccat就不会报错，在8088/uniccat刷新页面就会大面积报错：</p> <div class="language- line-numbers-mode"><pre class="language-text"><code>Uncaught SyntaxError: Unexpected token &lt;
 </code></pre> <div class="line-numbers-wrapper"><span class="line-number">1</span><br></div></div><p>据目击者判断，可能是由于引用路径问题，于是核查引用的文件，发现报错的全部都是第一个项目中的文件，在当前项目中完全没有加载过......
-最后改了url就没事了。是由于浏览器缓存问题？可是我强刷了啊，啊啊啊啊</p></div> <div class="page-edit"><!----> <div class="last-updated"><span class="prefix">Last Updated: </span> <span class="time">3/1/2019, 11:25:50 AM</span></div></div> <div class="page-nav"><p class="inner"><span class="prev">
+最后改了url就没事了。是由于浏览器缓存问题？可是我强刷了啊，啊啊啊啊</p></div> <div class="page-edit"><!----> <div class="last-updated"><span class="prefix">Last Updated: </span> <span class="time">3/1/2019, 3:12:06 PM</span></div></div> <div class="page-nav"><p class="inner"><span class="prev">
         ←
         <a href="/docs/vue/optimised.html" class="prev">
           optimised
         </a></span> <!----></p></div> </div> <!----></div></div>
-    <script src="/docs/assets/js/app.00219b97.js" defer></script><script src="/docs/assets/js/4.a29d8031.js" defer></script>
+    <script src="/docs/assets/js/app.f3dc8cda.js" defer></script><script src="/docs/assets/js/4.a29d8031.js" defer></script>
   </body>
 </html>
