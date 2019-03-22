@@ -17,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/assets/js/2.8a177a30.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret column="497" selection-start-column="497" selection-end-column="497" />
+              <caret column="482" selection-start-column="482" selection-end-column="482" />
             </state>
           </provider>
         </entry>
@@ -55,6 +55,11 @@
             <path>
               <item name="push" type="b2602c69:ProjectViewProjectNode" />
               <item name="push" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="push" type="b2602c69:ProjectViewProjectNode" />
+              <item name="push" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -102,6 +107,7 @@
       <workItem from="1551424250928" duration="102000" />
       <workItem from="1551424435099" duration="49000" />
       <workItem from="1551668872092" duration="115000" />
+      <workItem from="1552445695074" duration="92000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1551257750873</created>
@@ -159,14 +165,22 @@
       <option name="project" value="LOCAL" />
       <updated>1551668968842</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="0.04">
+      <created>1552445758271</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1552445758271</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1026000" />
+    <option name="totallyTimeSpent" value="1118000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1574" y="254" width="1440" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -197,13 +211,14 @@
     <MESSAGE value="new bug" />
     <MESSAGE value="0.02" />
     <MESSAGE value="0.03" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.03" />
+    <MESSAGE value="0.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.04" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/assets/js/2.8a177a30.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret column="497" selection-start-column="497" selection-end-column="497" />
+          <caret column="482" selection-start-column="482" selection-end-column="482" />
         </state>
       </provider>
     </entry>
