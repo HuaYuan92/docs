@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="" />
+    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -17,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/assets/js/2.8a177a30.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret column="482" selection-start-column="482" selection-end-column="482" />
+              <caret column="478" lean-forward="true" selection-start-column="478" selection-end-column="478" />
             </state>
           </provider>
         </entry>
@@ -55,11 +57,6 @@
             <path>
               <item name="push" type="b2602c69:ProjectViewProjectNode" />
               <item name="push" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="push" type="b2602c69:ProjectViewProjectNode" />
-              <item name="push" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,6 +106,7 @@
       <workItem from="1551668872092" duration="115000" />
       <workItem from="1552445695074" duration="92000" />
       <workItem from="1553245289455" duration="75000" />
+      <workItem from="1554082059508" duration="560000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1551257750873</created>
@@ -180,14 +178,22 @@
       <option name="project" value="LOCAL" />
       <updated>1553245340132</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="0.06">
+      <created>1554082125322</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1554082125322</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1193000" />
+    <option name="totallyTimeSpent" value="1753000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1574" y="254" width="1440" height="811" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -220,13 +226,17 @@
     <MESSAGE value="0.03" />
     <MESSAGE value="0.04" />
     <MESSAGE value="0.05" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.05" />
+    <MESSAGE value="0.06" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.06" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dist/vue/vue.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/2.8a177a30.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret column="482" selection-start-column="482" selection-end-column="482" />
+          <caret column="478" lean-forward="true" selection-start-column="478" selection-end-column="478" />
         </state>
       </provider>
     </entry>
