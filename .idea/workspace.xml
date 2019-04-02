@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/assets/js/2.8a177a30.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret column="478" lean-forward="true" selection-start-column="478" selection-end-column="478" />
+              <caret column="496" selection-start-column="496" selection-end-column="496" />
             </state>
           </provider>
         </entry>
@@ -37,8 +35,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1574" />
-    <option name="y" value="254" />
+    <option name="x" value="1677" />
+    <option name="y" value="118" />
     <option name="width" value="1440" />
     <option name="height" value="811" />
   </component>
@@ -50,7 +48,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -58,10 +55,22 @@
               <item name="push" type="b2602c69:ProjectViewProjectNode" />
               <item name="push" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="push" type="b2602c69:ProjectViewProjectNode" />
+              <item name="push" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="push" type="b2602c69:ProjectViewProjectNode" />
+              <item name="push" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -107,6 +116,7 @@
       <workItem from="1552445695074" duration="92000" />
       <workItem from="1553245289455" duration="75000" />
       <workItem from="1554082059508" duration="560000" />
+      <workItem from="1554170057616" duration="158000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1551257750873</created>
@@ -185,14 +195,21 @@
       <option name="project" value="LOCAL" />
       <updated>1554082125322</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="0.07">
+      <created>1554170199766</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1554170199766</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1753000" />
+    <option name="totallyTimeSpent" value="1911000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1574" y="254" width="1440" height="811" extended-state="0" />
+    <frame x="1677" y="118" width="1440" height="811" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
@@ -227,16 +244,15 @@
     <MESSAGE value="0.04" />
     <MESSAGE value="0.05" />
     <MESSAGE value="0.06" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.06" />
+    <MESSAGE value="0.07" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.07" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/dist/vue/vue.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/dist/vue/vue.html" />
     <entry file="file://$PROJECT_DIR$/assets/js/2.8a177a30.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret column="478" lean-forward="true" selection-start-column="478" selection-end-column="478" />
+          <caret column="496" selection-start-column="496" selection-end-column="496" />
         </state>
       </provider>
     </entry>
