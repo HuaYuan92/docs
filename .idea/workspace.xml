@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="" />
+    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -13,12 +15,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/2.8a177a30.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="84">
               <caret column="496" selection-start-column="496" selection-end-column="496" />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/js/4.1873ba82.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1666" />
           </provider>
         </entry>
       </file>
@@ -48,6 +57,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -70,7 +80,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -117,6 +126,8 @@
       <workItem from="1553245289455" duration="75000" />
       <workItem from="1554082059508" duration="560000" />
       <workItem from="1554170057616" duration="158000" />
+      <workItem from="1554190242089" duration="54000" />
+      <workItem from="1554190968813" duration="574000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1551257750873</created>
@@ -202,17 +213,24 @@
       <option name="project" value="LOCAL" />
       <updated>1554170199766</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="0.08">
+      <created>1554190292152</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1554190292152</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1911000" />
+    <option name="totallyTimeSpent" value="2539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1677" y="118" width="1440" height="811" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24947146" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18463707" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -245,15 +263,21 @@
     <MESSAGE value="0.05" />
     <MESSAGE value="0.06" />
     <MESSAGE value="0.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.07" />
+    <MESSAGE value="0.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.08" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dist/vue/vue.html" />
     <entry file="file://$PROJECT_DIR$/assets/js/2.8a177a30.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="84">
           <caret column="496" selection-start-column="496" selection-end-column="496" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/4.1873ba82.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1666" />
       </provider>
     </entry>
   </component>
