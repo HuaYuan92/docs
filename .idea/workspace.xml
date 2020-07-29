@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="0.17">
+    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/js/4.4c19bc22.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/6.8a9c99c4.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/4.90e699f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/6.960428c0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/app.866321dd.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/app.123999a0.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/bugs.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/bugs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/data.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/data.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/optimised.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/optimised.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/ts.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/ts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/vue.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/vue.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue/website.html" beforeDir="false" afterPath="$PROJECT_DIR$/vue/website.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,6 +54,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -51,7 +66,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -115,6 +129,8 @@
       <workItem from="1573030189934" duration="50000" />
       <workItem from="1573208863825" duration="115000" />
       <workItem from="1596005183060" duration="13000" />
+      <workItem from="1596013188045" duration="75000" />
+      <workItem from="1596014085299" duration="19000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1551257750873</created>
@@ -277,11 +293,18 @@
       <option name="project" value="LOCAL" />
       <updated>1573208968560</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="0.178">
+      <created>1596013252612</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1596013252612</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3844000" />
+    <option name="totallyTimeSpent" value="3938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="180" y="122" width="1080" height="599" extended-state="0" />
@@ -330,7 +353,8 @@
     <MESSAGE value="0.15" />
     <MESSAGE value="0.16" />
     <MESSAGE value="0.17" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.17" />
+    <MESSAGE value="0.178" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.178" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dist/vue/vue.html" />
