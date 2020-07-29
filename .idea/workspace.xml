@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="" />
+    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="0.17">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -25,10 +27,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1663" />
-    <option name="y" value="196" />
-    <option name="width" value="1440" />
-    <option name="height" value="808" />
+    <option name="x" value="180" />
+    <option name="y" value="122" />
+    <option name="width" value="1080" />
+    <option name="height" value="599" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -38,7 +40,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -50,6 +51,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -111,6 +113,8 @@
       <workItem from="1569403339098" duration="53000" />
       <workItem from="1571388391778" duration="53000" />
       <workItem from="1573030189934" duration="50000" />
+      <workItem from="1573208863825" duration="115000" />
+      <workItem from="1596005183060" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1551257750873</created>
@@ -266,16 +270,23 @@
       <option name="project" value="LOCAL" />
       <updated>1573030223246</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="0.17">
+      <created>1573208968560</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1573208968560</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3716000" />
+    <option name="totallyTimeSpent" value="3844000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1663" y="196" width="1440" height="808" extended-state="0" />
+    <frame x="180" y="122" width="1080" height="599" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13519314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13487476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -318,7 +329,8 @@
     <MESSAGE value="0.14" />
     <MESSAGE value="0.15" />
     <MESSAGE value="0.16" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.16" />
+    <MESSAGE value="0.17" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.17" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dist/vue/vue.html" />
