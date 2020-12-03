@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="" />
+    <list default="true" id="d47d567c-0344-49e5-9945-c2d66b0da715" name="Default Changelist" comment="0.21">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -38,6 +40,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -45,11 +48,26 @@
               <item name="docs" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="vue" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,6 +136,10 @@
       <workItem from="1596015000543" duration="34000" />
       <workItem from="1596107576839" duration="68000" />
       <workItem from="1598582319873" duration="69000" />
+      <workItem from="1600677239017" duration="89000" />
+      <workItem from="1600687617280" duration="26000" />
+      <workItem from="1602747824894" duration="1000" />
+      <workItem from="1602831423669" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1551257750873</created>
@@ -308,11 +330,18 @@
       <option name="project" value="LOCAL" />
       <updated>1598582354221</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="0.21">
+      <created>1600677316543</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1600677316543</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4109000" />
+    <option name="totallyTimeSpent" value="4228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="180" y="122" width="1080" height="599" extended-state="0" />
@@ -331,6 +360,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -365,7 +395,8 @@
     <MESSAGE value="0.18" />
     <MESSAGE value="0.19" />
     <MESSAGE value="0.20" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.20" />
+    <MESSAGE value="0.21" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.21" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/dist/vue/vue.html" />
@@ -390,12 +421,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/2.12651511.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret column="431" selection-start-column="431" selection-end-column="431" />
+    <entry file="file://$PROJECT_DIR$/assets/js/2.12651511.js" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/everyDay.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="17" column="1138" selection-start-line="17" selection-start-column="1138" selection-end-line="17" selection-end-column="1138" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vue/optimised.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4204" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/7.358f8b84.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/10.e5eaf26e.js">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
